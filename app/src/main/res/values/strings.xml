@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aura Luxe</string>
+    <string name="boutique_title">Virtual Boutique</string>
+    <string name="buy_now">Purchase Now</string>
+    <string name="gia_cert_label">Download GIA Certificate</string>
+    <string name="delivery_tracking">Track Delivery</string>
+    <string name="mpesa_pay">Pay via M-Pesa</string>
+    <string name="gemstone_details">Gemstone Specifications</string>
+    <string name="product_diamond_ring">Eternal Sparkle Diamond Ring</string>
+    <string name="product_emerald_necklace">Verdant Elegance Emerald Necklace</string>
+    <string name="product_ruby_earrings">Crimson Radiance Ruby Earrings</string>
+    <string name="desc_diamond_ring">A flawless 2-carat round brilliant diamond set in 18k white gold.</string>
+    <string name="desc_emerald_necklace">A majestic 5-carat Zambian emerald surrounded by pear-shaped diamonds.</string>
+    <string name="desc_ruby_earrings">Exquisite pigeon-blood rubies totaling 3 carats, accented by diamond halos.</string>
+    <string name="product_sapphire_bracelet">Oceanic Allure Sapphire Bracelet</string>
+    <string name="desc_sapphire_bracelet">A magnificent 18k white gold bracelet featuring 8 carats of deep blue Ceylon sapphires and brilliant-cut diamonds.</string>
+</resources>
