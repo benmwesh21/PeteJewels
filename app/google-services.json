@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465139525689",
+    "project_id": "com-example-pete-c1118",
+    "storage_bucket": "com-example-pete-c1118.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465139525689:android:f5fd278f8f9e978c7805e8",
+        "android_client_info": {
+          "package_name": "com.example.pete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiaGXP9kEqSv6jWf1DncqgQU0JZzr53XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
